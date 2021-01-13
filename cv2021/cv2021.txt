@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>CV2020</title>
+<link rel="stylesheet" href="cvcss.css">
+</head>
+
+<body>
+
+<section class="left" alt="name">
+
+<img src="cvimage.jpg" class="center"> 
+
+<h1>Izzy Zhang</h1> 
+<h4>Mobile: 021-0378578<br>
+Email: izzy.zhang@yahoo.co.nz</h4>
+
+</section>
+
+<section class="right" alt="contents">
+
+<h2>Key Knowledge and Skills</h2> 
+
+<div>
+<ul>
+<li>Solid knowledge of the culture and techniques of the 21st century library services</li>
+<li>General understanding of the role of Auckland Council in society and its operations and services to residents</li>   
+<li>Knowledge of information retrieval and ability to quickly and professionally search library catalogues, databases and internet to find needed information; evaluate and find the best information resources for addressing specific questions or issues</li>
+<li>Knowledge of information organisation and ability to perform descriptive and subject cataloguing to the international standards</li>  
+<li>Knowledge of programme planning and implementation and ability to research, develop and evaluate programmes most suitable for a targeted customer niche</li>
+<li>Knowledge of computers, the internet and software and ability to adapt to new tools, systems and situations as they arise</li>
+<li>Experience of serving customers with diversified cultural backgrounds, including being a speaker of a community language</li> 
+<li>Experience of developing new systems and procedures; making administrative decisions; interpreting policies and preparing comprehensive reports</li> 
+<li>Experience of organising job duties; motivating and supervising junior members; establishing and maintaining effective working relationships with stakeholders</li>
+<li>Proven research skills, including professional presentations and publication</li>
+<li>Proven public speaking and teaching skills and ability to present information clearly and in an interesting manner</li>
+</ul>
+</div>
+
+<h2>Tertiary Qualifications</h2>
+ 
+<div>
+<h3>Master of Information Studies (MIS) – 2016</h3>
+<p>(<i>Library Science/Archives and Records Management with Merit</i>)<br>
+Victoria University of Wellington</p>
+
+<h3>Master of Management (MMgt) – 2007</h3>
+<p>(<i>International Business/Management and Business Administration</i>)<br>
+Massey University</p>
+</div> 
+ 
+<h2>Professional Memberships</h2>
+
+<div>
+<ul>
+<li><a href="https://lianza.org.nz/professional-development/professional-registration/registration-roll" target="_blank">RLIANZA (2017 – present)</a>
+<li>LIANZA (2013 – present)</li>
+<li>CILIP (UK) (2013 – present)</li>
+</ul>
+</div>
+
+<h2>Work Experience</h2> 
+ 
+<div>
+<h3>Integrated Service Assistant (0.75 EFT) (Aug 2019 – present)<br> 
+Te Manawa - Auckland Council/Libraries</h3> 
+<ul>
+<li>Library services (e.g., lending, information services, etc.)</li>
+<li>Council services (e.g., rates payment, dog registration, etc.)</li>
+<li>IT support (e.g., digital services and solutions) and troubleshooting</li>
+<li>Library and council event support, including venue booking and host services</li>
+<li>Other administrative duties</li>
+</ul>
+</div>
+
+<div>
+<h3>Cataloguing (Metadata) Librarian (1.0 EFT) (Sep 2018 – Apr 2019)<br>
+Wheelers Books</h3>
+<ul>
+<li>Perform descriptive and subject cataloguing on newly acquired library materials</li>
+<li>Check, adjust and upgrade client’s existing catalogue</li>
+<li>Accurately apply relevant cataloguing rule (e.g., RDA, DDC, LCSH) and carry out authority control work (e.g., LC Authorities)</li>
+<li>Other administrative duties</li>	
+</ul>
+</div>
+
+<div>
+<h3>Senior Customer Service Assistant – Course Reserves & Inter-library Loan (1.0 EFT) (Nov 2016 – Aug 2018)<br>
+Unitec Institute of Technology</h3> 
+<ul>
+<li>Manage course reserve collections</li>
+<li>Process inter-library loan requests on Te Puna (National Library inter-loan platform)</li>
+<li>Supervise casual staff in the evenings and weekends</li>
+<li>Lending and information services</li>
+<li>Other administrative duties</li>
+</ul>
+</div>
+
+<div>
+<h3>Customer Service Assistant – Library IT support (0.5 EFT) (Mar 2015 – Nov 2016)<br>
+Unitec Institute of Technology</h3>
+<ul>
+<li>IT support (e.g., digital services and solutions) and troubleshooting</li>
+<li>Develop and manage library digital signage</li>
+<li>Lending and information services</li>
+<li>Institution services (e.g., enrolment inquiry, course consultation, etc.)</li>
+</ul>	
+</div>
+ 
+<div>
+<h3>Library Assistant (0.4 EFT) (Feb 2014 – Nov 2016)<br>
+Massey University, Albany Campus</h3>
+<ul>
+<li>Lending and information services</li>
+<li>Sort, mend, file and shelve library materials</li>
+<li>New books processing and weeding duties</li>
+<li>Institution services (e.g., enrolment inquiry, course consultation, etc.)</li>
+</ul>
+</div>
+
+<h2>Other Work Experience</h2>
+ 
+<div> 
+<h3>Revenue Protection Officer (1.0 EFT) (Aug 2007 – Mar 2015)<br>
+Auckland Mail Service Centre, New Zealand Post</h3>
+<ul>
+<li>Inspect bulk mail lodgements in terms of their completeness and correctness</li>
+<li>Liaison business customers</li>
+<li>Supervise and training junior staff </li>
+<li>Data entry and other administrative duties </li>
+</ul>
+<div>
+ 
+<h2>Awards</h2>
+
+<div>
+<ul> 
+<li>Special contribution nominated on <i>Te Manawa News</i> (Apr 2020) – Te Manawa, Auckland Council/Libraries</li>
+<li>Ops Star Runner up (Dec 2019) – Te Manawa, Auckland Council/Libraries</li>
+<li>Employee of the Month (Sep/Oct 2017) – Unitec Institute of Technology</li>
+<li>Staff Recognition Round Award (2016) – Unitec Institute of Technology </li>
+<li>Employee of the Month (Aug 2016) – Unitec Institute of Technology</li>
+<li>Scholarship Winner – LIANZA Annual Conference 2014 </li>
+</ul>
+</div> 
+
+<h2>Research Outputs (Presentations and Publications)</h2>  
+
+<div>
+<ul>
+<li>Zhang, I. (2019, July). <i>Copyright issues in derivative work: An analysis of translation, abstract and parody</i>. Paper presented at New Librarians’ Symposium 9 (NLS9), Australian Library and Information Association, Adelaide, Australia.</li>
+<br>
+<li>Zhang, I. (2018). An investigation of APA citation style skills of international students studying at Unitec Institute of Technology.  <i>New Zealand Library and Information Management Journal, 57</i>(1), 20-49. doi: 
+<a href="https://figshare.com/articles/An_investigation_of_APA_citation_style_skills_of_international_students_studying_at_Unitec_Institute_of_Technology/6453110" target="_blank"> 10.6084/M9.FIGSHARE.6453110 </a></li> 
+<br>
+<li>Zhang, I. (2018, May). <i>Bibliographic references generated using RMS applications present serious accuracy issues: A case study of Endnote, Zotero and Mendeley</i>.  Paper presented at Research Special Interest Group Symposium 2018 (RLL-2), Auckland, New Zealand.</li>
+<br>
+<li>Zhang, I. (2017, October).  <i>New Zealand tertiary students’ use of APA referencing: A case study of international students studying at Unitec Institute of Technology</i>.  Paper presented at Unitec Research Symposium 2017, Auckland, New Zealand.</li>  
+<br>
+<li>Zhang, I. (2016, July).  <i>An investigation of experiences, perceptions and expectations of Chinese international students with New Zealand ITP libraries: A case study of students at the Unitec Institute of Technology</i>.  Paper presented at Tertiary Libraries Special Interest Group (TelSIG) Forum 2016, Christchurch, New Zealand.</li> 
+</ul>
+</div>
+
+<h2>Conferences</h2>
+
+<div>
+<ul>
+<li>New Librarians’ Symposium 9 (NLS9) (5th – 7th July 2019)</li>
+<li>Research SIG Symposium 2018 (RLL-2) (25th May 2018)</li>
+<li>Unitec Research Symposium (5th October 2017)</li>
+<li>Auckland Regional Digital Forum (28th October 2016)</li>
+<li>TelSIG Forum 2016 (4th - 5th July 2016)</li>
+<li>Research SIG Symposium 2016 (RLL-1) (27th May 2016)</li>
+<li>LIANZA Conference 2014 (13th – 15th October 2014)</li>
+</ul>
+</div>
+
+<h2>Professional Development and Trainings</h2>
+
+<div>
+<ul>
+
+<li>e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age – an online course authorised by the University of Illinois at Urbana-Champaign and offered by Coursera (Dec-Jan 2021)</li>
+
+<li>Building Resilience: an Introduction – an e-learning offered by Auckland Council (2 Oct 2020)</li>
+
+<li>Information Security: Preventing Cybercrime, Security Social Media, and Privacy – e-learnings offered by Auckland Council (Sep-Oct 2020)</li>
+
+<li><a href="https://coursera.org/verify/QDW67P8ECFED" target="_blank">Introduction to HTML5</a>,
+<a href="https://coursera.org/verify/UGZ787Y66M6T" target="_blank">Introduction to CSS3</a> and
+<a href="https://coursera.org/verify/27RDSZF7899A" target="_blank">Interactivity with JavaScript</a>
+ – online web development and coding courses authorised by the University of Michigan and offered by Coursera (Apr-May 2020)</li>
+
+<li>Keeping Children Safe: Library Scenarios – an e-learning offer by Auckland Libraries (Apr 2020)</li>
+
+<li>Auckland Libraries: Personal Safety and Security e-learning (Apr 2020)</li>
+
+<li><a href="https://coursera.org/verify/7H82QFBCXQW3" target="_blank">Fundamentals of Graphic Design</a>, 
+<a href="https://coursera.org/verify/AVJBEG95BLLE" target="_blank">Introduction to Typography</a> and
+<a href="https://coursera.org/verify/UYBD3ASFRQPU" target="_blank">The Ideas from the History of Graphic Design</a>
+ – online graphic design courses authorised by California Institute of Arts (CalArts) and offered by Coursera (Mar-Apr 2020)</li>
+
+<li>Auckland Libraries: <i>Whakatipu i te reo Māori</i> e-learning – Module 1: <i>Whakahuahua</i>/Pronunciation and Module 2: <i>Ngā kupu ā Pātaka Kōrero</i> (Apr 2020)</li> 
+
+<li><a href="https://coursera.org/verify/A79UHHZ32TBU" target="_blank">Write Professional Emails</a>, 
+<a href="https://coursera.org/verify/N76Z86GNF2VD" target="_blank">Speaking Professionally in Person, Online and On the Phone</a> and
+<a href="https://coursera.org/verify/RZGFFTETBTF5" target="_blank">Build Your Professional ePortfolio</a>
+ – online professional communication courses authorised by Georgia Institute of Technology (GeorgiaTech) and offered by Coursera (Mar-Apr 2020)</li>
+
+<li><a href="https://coursera.org/verify/FL74Q99MYGPK" target="_blank">Technical Support Fundamentals</a> – an online IT support course authorised by Google and offered by Coursera (Jan 2020)</li>
+
+<li>Auckland Emergency Management Foundation course (12 Dec 2019)</li>
+
+<li><a href="https://coursera.org/verify/A2K73X6TUAS7" target="_blank">Excel Skills for Business</a> – an online course authorised by Macquarie University and offered by Coursera (Nov-Dec 2019)</li>
+
+<li>AI for Everyone – an online digital course authorised by Deeplearning.ai and offered by Coursera (Nov 2019)</li>
+<li>Auckland Libraries: Introducing our eBooks and eAudiobooks e-learning (Oct 2019)</li>
+<li>Auckland Libraries: Sierra Integrated Library System training (Sep-Oct 2019)</li>
+<li>First Aid training (5 & 6 Sep 2019)</li>
+<li>Auckland Council services training (Aug-Sep 2019)</li>
+<li>New Zealand Landscape as Culture: Islands (Ngā Motu) – an online Maori course authorised by Victoria University of Wellington and offered by EdX (Jan-Feb 2019)</li>
+<li>On-the-job cataloguing training offered by Wheelers Books (Sep-Dec 2018)</li>
+<li>Customer service training offered by Unitec Institute of Technology (Jul 2018)</li>
+<li>Copyright: Guidelines for Librarians – an e-learning offered by LIANZA (Jun-Aug 2018)</li>
+
+<li><a href="https://coursera.org/verify/3KEBUGUWYKKD" target="_blank">Copyright for Educators and Librarians</a> and 
+<a href="https://coursera.org/verify/J9CWR97FH2E2" target="_blank">Copyright for Multimedia</a> 
+ – online courses authorised by Duke University, Emory University and The University of North Carolina at Chapel Hill and offered by Coursera (Mar-May 2018)</li>
+
+<li>Maori language and culture – a series of night classes offered by Unitec Institute of Technology (Feb-Apr 2018)</li>
+
+</ul>
+</div>
+
+</section>
+
+</body>
+</html>
